@@ -1,0 +1,64 @@
+{
+  "name":"孙雨春",
+  "nickname":"紅茶",
+  "firstName":"sun",
+  "lastName":"yuchun",
+  "slogan":"追求专业与卓越前端开发者",
+  "location":"Hangzhou·China",
+  "qq":{
+    "number":"520665525"
+  },
+  "website":"http://syuchun.com",
+  "email":"tiandi0228@live.com",
+  "intro":[
+    "爱学习，经常探索新的技术和工具；做事认真有效率。"
+  ],
+  "experience":[
+    {
+      "time":"2010年2月 ~ 2011年5月",
+      "title":"余姚市惠通网络信息有限公司",
+      "intro":"美工+前端开发+ASP程序员",
+      "description":"根据客户要求出设计图；根据设计图使用DIV/CSS/JS/FLASH输出WEB页面；兼容IE6以上浏览器;使用ASP代码完成整站。"
+    },
+    {
+      "time":"2011年6月 ~ 2012年6月",
+      "title":"杭州白马网络信息技术有限公司",
+      "intro":"美工+前端开发",
+      "description":"根据客户要求出设计图；根据设计图使用DIV/CSS/JS/FLASH输出WEB页面；配合ASP.NET程序员页面的调整。"
+    },
+    {
+      "time":"2012年7月 ~ 2014年3月",
+      "title":"杭州可乐信息技术有限公司",
+      "intro":"前端开发",
+      "description":"根据设计图使用DIV/CSS/JQUERY输出WEB页面；使用HTML5/CSS3输出手机页面。"
+    },
+    {
+      "time":"2014年4月 ~ 至今",
+      "title":"浙江法制报",
+      "intro":"前端开发",
+      "description":"根据设计图使用DIV/CSS/JQUERY输出WEB页面；使用HTML5/CSS3输出手机页面；使用PHP开发用户查询系统；同时，也学习和使用了一些前端框架如：reactjs、vuejs等。"
+    }
+  ],
+  "skill":[
+    {
+      "name":"Html & Css",
+      "percent":"80%"
+    },
+    {
+      "name":"PhotoShop",
+      "percent":"70%"
+    },
+    {
+      "name":"jQuery",
+      "percent":"60%"
+    },
+    {
+      "name":"VueJs",
+      "percent":"20%"
+    },
+    {
+      "name":"PHP",
+      "percent":"40%"
+    }
+  ]
+}
